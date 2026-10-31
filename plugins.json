@@ -1,0 +1,62 @@
+[
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=64",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+    "fileSize": 30151,
+    "status": 1,
+    "language": "tr",
+    "authors": ["nikyokki"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 6,
+    "internalName": "AsyaWatch",
+    "description": "AsyaWatch için topluluk eklentisi. Güncel alan adıyla uyumluluk doğrulanmadı.",
+    "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/AsyaWatch.cs3",
+    "name": "AsyaWatch"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.now&sz=64",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+    "fileSize": 33015,
+    "status": 1,
+    "language": "tr",
+    "authors": ["keyiflerolsun", "nikyokki"],
+    "tvTypes": ["TvSeries"],
+    "version": 25,
+    "internalName": "Dizilla",
+    "description": "Dizilla için topluluk eklentisi. Güncel alan adıyla uyumluluk doğrulanmadı.",
+    "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/Dizilla.cs3",
+    "name": "Dizilla"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.life&sz=64",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+    "fileSize": 37404,
+    "status": 1,
+    "language": "tr",
+    "authors": ["nikyokki"],
+    "tvTypes": ["TvSeries"],
+    "version": 15,
+    "internalName": "RoketDizi",
+    "description": "RoketDizi için topluluk eklentisi. Güncel alan adıyla uyumluluk doğrulanmadı.",
+    "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/RoketDizi.cs3",
+    "name": "RoketDizi"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.land&sz=64",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+    "fileSize": 28660,
+    "status": 1,
+    "language": "tr",
+    "authors": ["hexated", "keyiflerolsun", "nikyokki"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 36,
+    "internalName": "HDFilmCehennemi",
+    "description": "HDFilmCehennemi için topluluk eklentisi. Güncel alan adıyla uyumluluk doğrulanmadı.",
+    "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/HDFilmCehennemi.cs3",
+    "name": "HDFilmCehennemi"
+  }
+]

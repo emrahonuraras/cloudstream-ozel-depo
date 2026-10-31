@@ -1,0 +1,8 @@
+{
+  "name": "Ozel CloudStream Depom",
+  "description": "AsyaWatch, Dizilla, RoketDizi ve HDFilmCehennemi",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/emrahonuraras/cloudstream-ozel-depo/main/plugins.json"
+  ]
+}
